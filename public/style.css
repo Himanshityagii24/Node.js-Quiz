@@ -87,9 +87,16 @@ body {
 }
 
 
-.nav-btn,
-.nav-btn {
-    display: inline-block;
+
+
+
+.button-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.prev-btn,
+.next-btn {
     padding: 10px 20px;
     background-color: #64dd17; 
     color: #fff;
@@ -99,8 +106,15 @@ body {
     transition: background-color 0.3s;
 }
 
-.nav-btn:hover,
-.nav-btn:hover {
+.prev-btn:hover,
+.next-btn:hover {
     background-color: #1faa00; 
-    text-decoration: none; 
+}
+
+
+
+.logo img {
+    width: 200px; /* Adjust this value to your desired width */
+    height: auto;
+    margin-left: 190px;
 }

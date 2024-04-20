@@ -1,0 +1,58 @@
+{
+    "questions": [
+      {
+        "question": "How modules in Node.js can be connected from one component to another ?",
+        "options": ["Expose", "Module", "Exports", "All of the above"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which of the below modules is not a built-in module in Node.js ?",
+        "options": ["zlib", "HTTPS", "dgram", "fsread"],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Which of the below fs module is used to truncate a file ?",
+        "options": ["fs.delete(fd, len, callback)", "fs.remove(fd, len, callback)", "fs.ftruncate(fd, len, callback)", "None of the above."],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which template engines can be used with Node.js ?",
+        "options": ["Jade", "Vash", "Handlebars", "All of the above"],
+        "correctAnswer": 3
+      },
+      {
+        "question": "What is the default scope in the Node.js application ?",
+        "options": ["Global", "Local", "Global Function", "Local to object"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which below method is used to check whether the given path is an absolute path or not in Node.js ?",
+        "options": ["path.Query()", "path.render()", "path.isAbsolute()", "path.Absolute()"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "How do we send the message from one socket to another socket in Node.js ?",
+        "options": ["socket.send()", "socket.send()", "socket.post()", "socket.ref()"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which of the below is the correct syntax for installing the Nodemon in the Node.js application ?",
+        "options": ["npm install -g nodemon", "node install -g nodemon", "node install node", "node install -l nodemon"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which fs module in Node.js is used to get file information ?",
+        "options": ["fs.open(path,flags[,mode],callback", "fs.stat(path, callback)", "fs.readFile(path, flags[, mode], callback)", "None of the above."],
+        "correctAnswer": 1
+      },
+     
+      {
+        "question": "Which type of application does not prefer the backend as node.js ?",
+        "options": ["Single Page", "JSON APIs based", "CPU intensive", "Data-Intensive"],
+        "correctAnswer": 2
+      }
+
+
+     
+    ]
+  }
