@@ -28,6 +28,6 @@ Features:
 https://github.com/Himanshityagii24/Node.js-Quiz.git
 
 <h1>How to run</h1>
-1.Change the directory to : cd Node.js-Quiz
-2.Run the server: node index.js
-3. Run it on the localhost:3000.
+1.Change the directory to : cd Node.js-Quiz<br>
+2.Run the server: node index.js<br>
+3. Run it on the localhost:3000.<br>
